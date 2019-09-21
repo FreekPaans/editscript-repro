@@ -13,7 +13,6 @@
   (editscript/patch edit-source (editscript.edit/edits->script edits))
   )
 
-
 "the following is also weird"
 
 (assert (= (editscript.edit/get-edits
